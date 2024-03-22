@@ -1,0 +1,47 @@
+
+.me .rocket img{
+    width: 30px;
+    height: 30px;
+}
+.me .profile-img img {
+    width: 100px;
+    
+}
+.icon
+{
+    display: inline;
+}
+.icon img{
+ width:20px;
+ height:20px;
+}
+.title{
+    display: inline;
+}
+.title h3 {
+    display: inline;
+}
+.title p{
+    display: inline;
+}
+.map{
+    margin: 40px;
+}
+.map iframe{
+    border-radius: 50%;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px #ddd solid;
+    text-align: center;
+    padding: 10px;
+}
+th {
+    background-color: #f1f1f1;
+}
+tr:nth-child(odd){
+    background-color: #f8f6f6;
+}
